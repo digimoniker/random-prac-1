@@ -9,4 +9,4 @@ jobs:
         run: echo "hello world"
 
       - name: Print more text
-        run: echo "hello again
+        run: echo "hello again"
